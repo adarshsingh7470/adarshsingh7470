@@ -27,4 +27,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=adarshsingh7470&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![An image of @adarshsingh7470's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adarshsingh7470)](https://holopin.io/@adarshsingh7470)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
