@@ -59,7 +59,7 @@ Deployed a web app on Kubernetes cluster with LoadBalancer and ConfigMaps.
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/adarshsingh7470)  
 - 🌐 [GitHub](https://github.com/adarshsingh7470)  
-- ✉️ Email: **adarshsingh.devops@gmail.com**  
+- ✉️ Email: **adityarajawat0099@gmail.com**  
 
 ---
 
